@@ -16,7 +16,6 @@ class Main extends PluginBase implements Listener {
     public function onEnable(): void {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
 
-        // Membuat file konfigurasi jika belum ada
         $this->saveDefaultConfig();
     }
 
@@ -27,7 +26,7 @@ class Main extends PluginBase implements Listener {
             $message = $this->getDeathMessage($cause);
 
             if ($message !== null) {
-                // Mengganti placeholder {player} dengan nama pemain
+
                 $message = str_replace("{player}", $player->getName(), $message);
 
                 $event->setDeathMessage($message);
