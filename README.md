@@ -3,9 +3,10 @@
 PocketMine-MP plugin that can change player death messages
 
 ## 📸 Icon
-**Death Screen
+**Death Message**
 <a align="center"><img src="https://github.com/Bad4Second/CustomDeathMessage/blob/main/foto1.jpg"></a>
-**Death Message
+
+**Death Screen**
 <a align="center"><img src="https://github.com/Bad4Second/CustomDeathMessage/blob/main/foto2.jpg"></a>
 
 ## 🛠 How to install CustomDeathMessage?
