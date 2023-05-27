@@ -1,1 +1,17 @@
+# config.yml
+
+contact: "{player} was killed by a cactus"
+entity_attack: "{player} was slain by {killer}"
+projectile: "{player} was shot by a projectile"
+suffocation: "{player} suffocated"
+fall: "{player} fell from a high place"
+fire: "{player} burned to death"
+fire_tick: "{player} burned to death"
+lava: "{player} died in lava"
+drowning: "{player} drowned"
+explosion: "{player} was killed by an explosion"
+void: "{player} fell into the void"
+suicide: "{player} committed suicide"
+magic: "{player} was killed by magic"
+custom: "{player} was killed by a custom cause"
 
